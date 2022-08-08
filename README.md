@@ -1,5 +1,6 @@
-![unchul's GitHub stats](https://github-readme-stats.vercel.app/api?username=unchul&hide=contribs,prs&bg_color=657FA6&text_color=f9b937&title_color=FFFFFF)
-
+![unchul's GitHub stats](https://github-readme-stats.vercel.app/api?username=unchul&hide=contribs,prs&bg_color=F9B937&text_color=524782&title_color=020715)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unchul&layout=compact&theme=great-gatsby&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
