@@ -43,8 +43,13 @@ Front-End Developer Un-chul Im
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unchul&layout=compact&theme=great-gatsby&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
+<img src="https://cdn.discordapp.com/attachments/973187818971074580/1006254770857705623/duck_banner2.png" width="100%"/>
 
 <!--
 **unchul/unchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
