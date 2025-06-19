@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/973187818971074580/1006256043921264700/SHANAduck_mp4_1.gif" width="100%"/>
 
 <h1 align="center">
-Front-End Developer Un-chul Im
+Full-Stack Developer Un-chul Im
 </h1>
 
 <br/>
