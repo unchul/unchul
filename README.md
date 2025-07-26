@@ -1,4 +1,6 @@
+<div align = "center">
 <img width="800" height="350" alt="Image" src="https://github.com/user-attachments/assets/37d3e372-ca06-44d0-aa77-3628d7467780" />
+</div>
 
 <h1 align="center">
 Full-Stack Developer Un-chul Im
