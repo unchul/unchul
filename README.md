@@ -60,8 +60,7 @@ Full-Stack Developer Un-chul Im
 <br/>
 
 
-<img src="https://cdn.discordapp.com/attachments/973187818971074580/1006254770857705623/duck_banner2.png" width="100%"/>
-
+![Image](https://github.com/user-attachments/assets/09931947-8218-45b7-85de-df9f679f730c)
 <!--
 **unchul/unchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
