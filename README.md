@@ -41,7 +41,7 @@ Full-Stack Developer Un-chul Im
 <h2>🦆About Golden-Duck!!!🦆</h2>
 <br/>
 안녕하세요 Golden-Duck 임운철 입니다! 🐥 </br> 
-현재 프론트엔드 개발자로 막 걸음마를 시작한 오리죠! 🐣 </br>
+현재 풀스택 개발자로 막 걸음마를 시작한 오리죠! 🐣 </br>
 배우고 실천하고 앞으로 나아가기 위해 오늘도 힘찬 날개짓 중입니다!  \(•ө•)/ </br>
 
 </br>
