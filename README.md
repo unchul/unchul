@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/973187818971074580/1006256043921264700/SHANAduck_mp4_1.gif" width="100%"/>
+<img width="800" height="350" alt="Image" src="https://github.com/user-attachments/assets/37d3e372-ca06-44d0-aa77-3628d7467780" />
 
 <h1 align="center">
 Full-Stack Developer Un-chul Im
